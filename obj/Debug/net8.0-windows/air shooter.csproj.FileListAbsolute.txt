@@ -1,0 +1,38 @@
+C:\Users\maxim\source\repos\air shooter\air shooter\obj\Debug\net8.0-windows\air shooter.csproj.AssemblyReference.cache
+C:\Users\maxim\source\repos\air shooter\air shooter\obj\Debug\net8.0-windows\air shooter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\source\repos\air shooter\air shooter\obj\Debug\net8.0-windows\air shooter.AssemblyInfoInputs.cache
+C:\Users\maxim\source\repos\air shooter\air shooter\obj\Debug\net8.0-windows\air shooter.AssemblyInfo.cs
+C:\Users\maxim\source\repos\air shooter\air shooter\obj\Debug\net8.0-windows\air shooter.csproj.CoreCompileInputs.cache
+C:\Users\maxim\source\repos\air shooter\air shooter\bin\Debug\net8.0-windows\Content\bgLayer1.xnb
+C:\Users\maxim\source\repos\air shooter\air shooter\bin\Debug\net8.0-windows\Content\bgLayer2.xnb
+C:\Users\maxim\source\repos\air shooter\air shooter\bin\Debug\net8.0-windows\Content\endMenu.xnb
+C:\Users\maxim\source\repos\air shooter\air shooter\bin\Debug\net8.0-windows\Content\explosion.xnb
+C:\Users\maxim\source\repos\air shooter\air shooter\bin\Debug\net8.0-windows\Content\gameFont.xnb
+C:\Users\maxim\source\repos\air shooter\air shooter\bin\Debug\net8.0-windows\Content\laser.xnb
+C:\Users\maxim\source\repos\air shooter\air shooter\bin\Debug\net8.0-windows\Content\mainbackground.xnb
+C:\Users\maxim\source\repos\air shooter\air shooter\bin\Debug\net8.0-windows\Content\mainMenu.xnb
+C:\Users\maxim\source\repos\air shooter\air shooter\bin\Debug\net8.0-windows\Content\mine.xnb
+C:\Users\maxim\source\repos\air shooter\air shooter\bin\Debug\net8.0-windows\Content\mineAnimation.xnb
+C:\Users\maxim\source\repos\air shooter\air shooter\bin\Debug\net8.0-windows\Content\player.xnb
+C:\Users\maxim\source\repos\air shooter\air shooter\bin\Debug\net8.0-windows\Content\shipAnimation.xnb
+C:\Users\maxim\source\repos\air shooter\air shooter\bin\Debug\net8.0-windows\air shooter.exe
+C:\Users\maxim\source\repos\air shooter\air shooter\bin\Debug\net8.0-windows\air shooter.deps.json
+C:\Users\maxim\source\repos\air shooter\air shooter\bin\Debug\net8.0-windows\air shooter.runtimeconfig.json
+C:\Users\maxim\source\repos\air shooter\air shooter\bin\Debug\net8.0-windows\air shooter.dll
+C:\Users\maxim\source\repos\air shooter\air shooter\bin\Debug\net8.0-windows\air shooter.pdb
+C:\Users\maxim\source\repos\air shooter\air shooter\bin\Debug\net8.0-windows\MonoGame.Framework.dll
+C:\Users\maxim\source\repos\air shooter\air shooter\bin\Debug\net8.0-windows\SharpDX.dll
+C:\Users\maxim\source\repos\air shooter\air shooter\bin\Debug\net8.0-windows\SharpDX.Direct2D1.dll
+C:\Users\maxim\source\repos\air shooter\air shooter\bin\Debug\net8.0-windows\SharpDX.Direct3D11.dll
+C:\Users\maxim\source\repos\air shooter\air shooter\bin\Debug\net8.0-windows\SharpDX.Direct3D9.dll
+C:\Users\maxim\source\repos\air shooter\air shooter\bin\Debug\net8.0-windows\SharpDX.DXGI.dll
+C:\Users\maxim\source\repos\air shooter\air shooter\bin\Debug\net8.0-windows\SharpDX.Mathematics.dll
+C:\Users\maxim\source\repos\air shooter\air shooter\bin\Debug\net8.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\maxim\source\repos\air shooter\air shooter\bin\Debug\net8.0-windows\SharpDX.XAudio2.dll
+C:\Users\maxim\source\repos\air shooter\air shooter\bin\Debug\net8.0-windows\SharpDX.XInput.dll
+C:\Users\maxim\source\repos\air shooter\air shooter\obj\Debug\net8.0-windows\air shoo.1C50401B.Up2Date
+C:\Users\maxim\source\repos\air shooter\air shooter\obj\Debug\net8.0-windows\air shooter.dll
+C:\Users\maxim\source\repos\air shooter\air shooter\obj\Debug\net8.0-windows\refint\air shooter.dll
+C:\Users\maxim\source\repos\air shooter\air shooter\obj\Debug\net8.0-windows\air shooter.pdb
+C:\Users\maxim\source\repos\air shooter\air shooter\obj\Debug\net8.0-windows\air shooter.genruntimeconfig.cache
+C:\Users\maxim\source\repos\air shooter\air shooter\obj\Debug\net8.0-windows\ref\air shooter.dll
