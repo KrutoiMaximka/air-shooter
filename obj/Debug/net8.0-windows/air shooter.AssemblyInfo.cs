@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("air shooter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57eb8228c3aef7f552f42075218f2af970153dee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2d6e386a2f46f65778359d5d735ed0486fc44d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("air shooter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("air shooter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

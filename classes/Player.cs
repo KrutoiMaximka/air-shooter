@@ -5,13 +5,14 @@ using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using System.Collections.Generic;
 
-namespace air_shooter
+namespace air_shooter.classes
 {
     public class Player
     {
         private Texture2D _texture;
         private Vector2 _position;
         private float _speed;
+        public Rectangle hitbox;
 
         public Player()
         {
@@ -27,11 +28,7 @@ namespace air_shooter
         }
         public void Draw(SpriteBatch spriteBatch)
         {
-            spriteBatch.Begin();
-            
-            spriteBatch.Draw(_texture,_position, Color.White);
-
-            spriteBatch.End();
+            spriteBatch.Draw(_texture, _position, Color.White);
         }
 
         public void Update(int widthScreen, int heightScreen, ContentManager content)

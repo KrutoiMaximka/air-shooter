@@ -36,3 +36,4 @@ C:\Users\maxim\source\repos\air shooter\air shooter\obj\Debug\net8.0-windows\ref
 C:\Users\maxim\source\repos\air shooter\air shooter\obj\Debug\net8.0-windows\air shooter.pdb
 C:\Users\maxim\source\repos\air shooter\air shooter\obj\Debug\net8.0-windows\air shooter.genruntimeconfig.cache
 C:\Users\maxim\source\repos\air shooter\air shooter\obj\Debug\net8.0-windows\ref\air shooter.dll
+C:\Users\maxim\source\repos\air shooter\air shooter\obj\Debug\net8.0-windows\air shooter.sourcelink.json

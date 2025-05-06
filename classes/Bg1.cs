@@ -5,7 +5,7 @@ using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using System.Collections.Generic;
 
-namespace air_shooter
+namespace air_shooter.classes
 {
     public class Bg1
     {
@@ -25,20 +25,21 @@ namespace air_shooter
             _texture = null;
             _position1 = Vector2.Zero;
             _position2 = Vector2.Zero;// new Vector2(0, 0);
-            _speed = 1;
+            _speed = 1.5f;
         }
 
         public void LoadContent(ContentManager content)
         {
             _texture = content.Load<Texture2D>("bgLayer1");
 
-            _position1 = new Vector2(0, _texture.Width);
+            _position1 = new Vector2(_texture.Width, 0);
         }
 
         public void Update()
         {
             _position1.X += _speed;
             _position2.X += _speed;
+
 
             if (_position1.X >= 0)
             {
@@ -49,14 +50,8 @@ namespace air_shooter
 
         public void Draw(SpriteBatch spriteBatch)
         {
-            spriteBatch.Begin();
-
-
             spriteBatch.Draw(_texture, _position1, Color.White);
             spriteBatch.Draw(_texture, _position2, Color.White);
-
-
-            spriteBatch.End();
         }
     }
 
